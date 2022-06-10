@@ -1,5 +1,3 @@
-package com.rombe.testtaskdeeplaysummer2021.task2;
-
 import java.util.Objects;
 
 public class MapFieldType {
